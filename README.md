@@ -8,6 +8,7 @@
         <a href="https://bit.ly/3un0aFM"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://bit.ly/3NbatW9"><img src="https://img.shields.io/youtube/channel/views/UCvWXR4WLZ56dIhhZbLBM3QA?label=My%20Channel&style=social" alt="Youtube" /></a>
         <a href="https://mahmoudanwar.com/"><img src="https://img.shields.io/website?color=success&down_message=My%20Website%20here&label=My%20Website%20&style=social&up_message=My%20Website&url=https%3A%2F%2Fmahmoudanwar.com%2F" alt="My Website" /></a>
+        <a href=""><img src="https://img.shields.io/badge/Phone-My%20Phone-brightgreen" alt="My Phone Number" /></a>
     </div>
     <div align=left>
         <br>
