@@ -5,7 +5,7 @@
     </div>
     <div align=center>
         <a href="https://bit.ly/3un0aFM"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://bit.ly/3NbatW9"><img src="https://www.flaticon.com/free-icon/youtube_1384060?term=youtube&page=1&position=2&page=1&position=2&related_id=1384060&origin=search" alt="Youtube" /></a>
+        <a href="https://bit.ly/3NbatW9"><img src="https://img.shields.io/youtube/channel/views/UCvWXR4WLZ56dIhhZbLBM3QA?label=My%20Channel&style=social" alt="Youtube" /></a>
     </div>
     <!-- <div align=left>
         <br>
