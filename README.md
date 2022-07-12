@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <div>
-    <p align="center"><a href="https://engsahaly.github.io"><img width="80%" alt="Hello, I'm Mahmoud. A full stack web developer" src="assets/gh-readme-header.png" /></a></p>
+    <p align="center"><a href="https://github.com/engsahaly"><img width="80%" alt="Hello, I'm Mahmoud. A full stack web developer" src="./assets/gh-readme-header.png" /></a></p>
     <div align=center>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="500">
     </div>
